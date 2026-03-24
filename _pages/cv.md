@@ -1,107 +1,12 @@
-cv:
-  name: "Alicia Vanderpool"
-  headline: "Designer & Marketing Partner"
-  location: "Mason, MI"
-  email: "umbreonica@gmail.com"
-  phone: "+15173129393"
-
-  sections:
-    summary:
-      - Experienced digital marketer with a demonstrated history of working
-        within the design field. Specialized in graphic design, social media
-        management, and marketing, with experience in generating new sales
-        leads.
-
-    experience:
-      - company: "AP Lazer"
-        position: "Social Media Manager & Digital Content Creator"
-        location: "Mason, MI"
-        start_date: "2022-03"
-        end_date: "present"
-        highlights:
-          - "Managed social media publishing across Facebook, Instagram, and
-            YouTube, ensuring brand consistency and platform best practices."
-          - "Partnered with leadership to align social content with business
-            priorities, product launches, and sales initiatives."
-          - "Actively managed community Facebook groups, driving lead generation
-            through authentic engagement and product education."
-          - "Led end-to-end content creation, including graphic design,
-            photography, and video production optimized for each channel."
-          - "Produced physical product samples for marketing campaigns, trade
-            shows, and live demonstrations."
-          - "Served as on-camera brand face for livestreams and tutorials,
-            supporting audience engagement and performance optimization."
-
-      - company: "Tanda Create LLC"
-        position: "Graduation/Wedding Photographer"
-        location: "Lansing, MI"
-        start_date: "2022-03"
-        end_date: "present"
-        highlights:
-          - "Consulted one-on-one with clients to define photography needs,
-            schedule sessions, and finalize image sales."
-          - "Executed professional studio lighting, posing, and post-production
-            editing for diverse clients."
-
-      - company: "Lifetouch"
-        position: "Preschool/Studio Photographer"
-        location: "Lansing, MI"
-        start_date: "2021-10"
-        end_date: "2022-03"
-        highlights:
-          - "Captured high-quality photographs of children, adults, and pets
-            using professional camera gear and lighting setups."
-          - "Managed the full client experience, including posing and executing
-            the sale of photo packages."
-
-      - company: "OfficeMax"
-        position: "Print and Customer Service Supervisor"
-        location: "Lansing, MI"
-        start_date: "2021-05"
-        end_date: "2021-10"
-        highlights:
-          - "Developed graphics for store events and assisted clients with
-            custom print project design."
-          - "Established department procedures, resolved customer complaints,
-            and managed team performance."
-
-      - company: "Thingsmiths LLC"
-        position: "3D Generalist"
-        location: "Ann Arbor, MI"
-        start_date: "2019-06"
-        end_date: "2020-08"
-        highlights:
-          - "Led the sculptural design department, creating high-quality 3D
-            models using Zbrush and Maya."
-          - "Cooperated with design engineers to optimize project files and
-            operated 3D printing equipment."
-          - "Managed client communications, project scheduling, and planning via
-            ZenDesk."
-
-      - company: "University of Michigan"
-        position: "Digital Fabrication Studio Assistant"
-        location: "Ann Arbor, MI"
-        start_date: "2016-09"
-        end_date: "2019-05"
-        highlights:
-          - "Operated and maintained lab equipment including CNC routers, 3D
-            printers, and laser cutters."
-          - "Guided students in file preparation and machine operation while
-            developing example projects for studio use."
-
-    education:
-      - institution: "University of Michigan"
-        area: Art and Design
-        degree: "BFA"
-        start_date: "2015-09"
-        end_date: "2019-05"
-        location: "Ann Arbor, MI"
-
-    skills:
-      - label: "Design & Creative"
-        details: "Illustration, Graphic Design, Photography, Videography"
-      - label: "Management"
-        details: "Social Media Management, Community Management, Team Management"
-      - label: "Software"
-        details: "Adobe Photoshop, Illustrator, Lightroom, Premiere Pro, InDesign, Meta
-          Business Suite, Procreate, Zbrush, Maya"
+---
+layout: cv
+permalink: /cv/
+title: CV
+nav: true
+nav_order: 5
+cv_pdf: /assets/rendercv/rendercv_output/CV.pdf
+cv_format: rendercv # options: rendercv, jsonresume
+description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+toc:
+  sidebar: left
+---
