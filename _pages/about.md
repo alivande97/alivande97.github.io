@@ -5,8 +5,8 @@ permalink: /
 subtitle: <a href='#'>Designer & Marketing Partner</a>.
 
 profile:
-  align: left
-  image: prof_pic.jpg
+  align: right
+  image: 
   image_circular: false # crops the image to make it circular
   more_info: >
 
@@ -23,6 +23,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+![(prof_pic.jpg)](assets/img/prof_pic_color.jpg)
 
 I build brands by building relationships.
 
